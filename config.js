@@ -88,16 +88,16 @@ const CONFIG = {
   lists: {
     firstList: [
       {
+        name: 'Spotify',
+        link: 'https://open.spotify.com/',
+      },      
+      {
         name: 'Bandcamp',
         link: 'https://bandcamp.com/spooknyan',
       },
       {
         name: 'Soundcloud',
         link: 'https://soundcloud.com/',
-      },
-      {
-        name: 'Spotify',
-        link: 'https://open.spotify.com/',
       },
       {
         name: 'Youtube Music',
