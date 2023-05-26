@@ -114,8 +114,8 @@ const CONFIG = {
         link: 'https://web.whatsapp.com/',
       },
       {
-        name: 'Universo',
-        link: 'https://cdu.asoec.com.br/cdu/public/index/login',
+        name: 'Twitter',
+        link: 'https://twitter.com/home',
       },
       {
         name: 'Telegram',
